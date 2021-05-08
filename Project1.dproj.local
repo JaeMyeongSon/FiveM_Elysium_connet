@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.880,D:\20190322 backup\개발\파엠풀섭체크\Unit1.dfm=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.448,=D:\20190322 backup\개발\컴터실Dns tool 무력화\WinHttp_TLB.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.579,D:\20190322 backup\개발\파엠풀섭체크\Project1.dproj=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.880,D:\20190322 backup\개발\파엠풀섭체크\Unit1.pas=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.208,=D:\20190322 backup\개발\파엠풀섭체크\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.176,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.238,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.778,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.800,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.573,=C:\Users\AAA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\개발"/>
+    <File Path="..\컴터실Dns tool 무력화"/>
+    <File Path="..\컴터실Dns tool 무력화\WinHttp_TLB.pas"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
