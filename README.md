@@ -10,3 +10,4 @@
 
 AAA = 먕 = 손재명
 
+Copyright (c) 2021 JaeMyeongSon
