@@ -8,4 +8,5 @@
 구동 이미지 : 
 ![image](https://user-images.githubusercontent.com/64263207/117559519-07bdfb80-b0c1-11eb-9aa3-a25c3e63a749.png)
 
-AAA = 먕 = 
+AAA = 먕 = 손재명
+
